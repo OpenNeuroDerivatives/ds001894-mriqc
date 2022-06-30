@@ -1,1 +1,25 @@
-../../../../.git/annex/objects/9Q/Q9/MD5E-s1009--a3d7b9c580ef18f229f223054431c348/MD5E-s1009--a3d7b9c580ef18f229f223054431c348
+Warning: Permanently added 'c162-011' (ED25519) to the list of known hosts.
+WARNING (04/29/22 18:52:08): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4282088.hostlist.xKjzC0Wx to get hosts
+starting job on c162-011
+starting job on c162-021
+starting job on c162-024
+starting job on c162-092
+starting job on c162-094
+starting job on c162-142
+starting job on c162-153
+starting job on c162-164
+starting job on c163-111
+starting job on c163-154
+starting job on c163-181
+starting job on c163-201
+starting job on c163-204
+starting job on c164-154
+starting job on c164-201
+starting job on c165-053
+starting job on c165-121
+starting job on c166-004
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+slurmstepd: error: *** JOB 4282088 ON c162-011 CANCELLED AT 2022-04-30T01:51:12 ***
+Terminated
